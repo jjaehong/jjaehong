@@ -24,6 +24,8 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 PRJ </h2>
     <br>
+
+    <!-- pjt example
     <table align="center">
       <tr>
         <th>Title</th>
@@ -43,7 +45,27 @@
         </td>
       </tr>
     </table>
+    -->
 </div>
+
+<div style ="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Experience </h2>
+    <p align="center">
+    🎓 Major in Business, Jeonbuk National Universiry Of College of Commerce (2017.02 ~ 2023.08)
+    🎓 Major in IAB , Jeonbuk National Universiry Of Global Frontier College (2021.02 ~ 2023.08)
+
+    💻 SSAFY (Samsung Software Academy For Youth) 10th (2023.07~)
+    
+
+    🏅2022 한국은행 통화정책 경시대회 전국 금상 (2022.08.12)
+    🏅2022 IAB 창의적 공학설계 (2022.08.12)
+    </p>
+
+
+</div>
+
+
+
 
 
 
