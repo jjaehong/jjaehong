@@ -80,7 +80,7 @@
 
 
 
-
+<!--
 # Welcome Friends 👋 
 I'm jjaehong seung!
 
@@ -104,19 +104,10 @@ PLEASE Help me make my dream come true
 - 🔭 I’m currently working on SSAFY
 - 🌱 I’m currently learning Python
 
-
-
 <!-- github stat -->
 ![jjaehong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaehong&show_icons=true&theme=radical)
 
 
-
-
-
-
-
-
-<!--
 **jjaehong/jjaehong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
