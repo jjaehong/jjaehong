@@ -22,12 +22,30 @@
 
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    
-    <div style="text-align: left;">  </div>  <br> 
-    
-    <div style="text-align: left;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 PRJ </h2>
+    <br>
+    <table align="center">
+      <tr>
+        <th>Title</th>
+        <th>Skill</th>
+        <th>Link</th>
+      </tr>
+      <tr>
+        <td>다대다 소개팅</td>
+        <td>
+            <a href="" target="_blank11">
+                <img src="https://img.shields.io/badge/SpringBatch-FFFFFF?style=round&logo=SpringBatch&logoColor=#6DB33F"/>
+                <img src="https://img.shields.io/badge/FastApi-FFFFFF?style=round&logo=FastApi&logoColor=#6DB33F"/>
+                <img src="https://img.shields.io/badge/Pytorch-FFFFFF?style=round&logo=Pytorch&logoColor=#6DB33F"/>
+        </td>
+        <td>
+            <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11174612">Published Paper </a>
+        </td>
+      </tr>
+    </table>
 </div>
+
+
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
