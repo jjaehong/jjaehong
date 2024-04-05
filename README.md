@@ -30,7 +30,7 @@
           /> </div> 
     </div>
     
-![jjaehong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaehong&show_icons=true&theme=radical)
+![jjaehong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaehong&show_icons=true&theme=default)
 
 
 
